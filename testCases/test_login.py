@@ -16,7 +16,7 @@ class Test_Url_Login:
     url=Readvalue.getUrl()
     log = LogGen.loggen()
 
-    # @pytest.mark.Sanity
+    @pytest.mark.sanity
     def test_url(self,setup):
         # self.log.debug("debug")
         # self.log.info("info")
@@ -41,7 +41,7 @@ class Test_Url_Login:
         self.driver.close()
         self.log.info("test_url is Completed")
 
-    # @pytest.mark.Sanity
+    @pytest.mark.sanity
     def test_login_002(self,setup):
         self.log.info("Opening Browser")
         self.driver = setup
