@@ -2343,3 +2343,102 @@
 2023-06-23 18:27:23,511 :  INFO : Test_Login_DDT : test_login_ddt_004: test_login_ddt_004 is Completed
 2023-06-23 18:27:24,757 :  INFO : Test_Login_DDT : test_login_ddt_004: test_login_ddt_004 is Passed
 2023-06-23 18:27:24,956 :  INFO : Test_Login_DDT : test_login_ddt_004: test_login_ddt_004 is Completed
+2023-06-23 18:40:53,264 :  INFO : Test_Login_DDT : test_login_ddt_004: Opening Browser
+wser
+2023-06-23 18:40:53,408 :  INFO : Test_Login_Params : test_login_params_003: Opening Browser
+2023-06-23 18:41:08,178 :  INFO : Test_Login_Params : test_login_params_003: Going to URL
+2023-06-23 18:41:08,205 :  INFO : Test_Login_DDT : test_login_ddt_004: Going to URL
+2023-06-23 18:41:08,281 :  INFO : Test_Login_Params : test_login_params_003: Going to URL
+2023-06-23 18:41:09,700 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter UserName--->Admin
+2023-06-23 18:41:09,705 :  INFO : Test_Login_Params : test_login_params_003: Enter UserName--->Admin
+2023-06-23 18:41:09,718 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter UserName--->Admin
+2023-06-23 18:41:09,726 :  INFO : Test_Login_Params : test_login_params_003: Enter UserName--->Admin
+2023-06-23 18:41:09,974 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter Password--->admin123
+2023-06-23 18:41:10,189 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter Password--->admin123
+2023-06-23 18:41:10,189 :  INFO : Test_Login_Params : test_login_params_003: Enter Password--->admin1231
+2023-06-23 18:41:10,206 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on login button
+2023-06-23 18:41:10,304 :  INFO : Test_Login_Params : test_login_params_003: Enter Password--->admin123
+2023-06-23 18:41:10,410 :  INFO : Test_Login_Params : test_login_params_003: Click on login button
+2023-06-23 18:41:10,431 :  INFO : Test_Login_Params : test_login_params_003: Click on login button
+2023-06-23 18:41:11,786 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on login button
+2023-06-23 18:41:12,860 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on Menu button
+2023-06-23 18:41:12,897 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on Menu button
+2023-06-23 18:41:12,933 :  INFO : Test_Login_Params : test_login_params_003: Click on Menu button
+2023-06-23 18:41:14,349 :  INFO : Test_Login_Params : test_login_params_003: Click on Logout button
+2023-06-23 18:41:14,349 :  INFO : Test_Login_Params : test_login_params_003: test_login_params_003 is Passed
+2023-06-23 18:41:14,388 :  INFO : Test_Login_Params : test_login_params_003: test_login_params_003 is Completed
+2023-06-23 18:41:14,778 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on Logout button
+2023-06-23 18:41:14,884 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on Logout button
+2023-06-23 18:41:15,582 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter UserName--->Admin1
+2023-06-23 18:41:15,598 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter UserName--->Admin1
+2023-06-23 18:41:15,706 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter Password--->admin123
+2023-06-23 18:41:15,726 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter Password--->admin123
+2023-06-23 18:41:15,790 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on login button
+2023-06-23 18:41:15,835 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on login button
+2023-06-23 18:41:16,687 :  INFO : Test_Login_Params : test_login_params_003: Opening Browser
+2023-06-23 18:41:25,665 :  INFO : Test_Login_Params : test_login_params_003: Going to URL
+2023-06-23 18:41:26,503 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter UserName--->Admin
+2023-06-23 18:41:26,520 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter UserName--->Admin
+2023-06-23 18:41:26,646 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter Password--->admin1231
+2023-06-23 18:41:26,675 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter Password--->admin1231
+2023-06-23 18:41:26,747 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on login button
+2023-06-23 18:41:26,778 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on login button
+2023-06-23 18:41:26,851 :  INFO : Test_Login_Params : test_login_params_003: Enter UserName--->Admin1
+2023-06-23 18:41:26,980 :  INFO : Test_Login_Params : test_login_params_003: Enter Password--->admin123
+2023-06-23 18:41:27,085 :  INFO : Test_Login_Params : test_login_params_003: Click on login button
+2023-06-23 18:41:37,446 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter UserName--->Admin1
+2023-06-23 18:41:37,581 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter Password--->admin1231
+2023-06-23 18:41:37,581 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter Password--->admin1231
+2023-06-23 18:41:37,653 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on login button
+2023-06-23 18:41:37,663 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on login button
+2023-06-23 18:41:41,102 :  INFO : Test_Login_Params : test_login_params_003: test_login_params_003 is Passed
+2023-06-23 18:41:41,213 :  INFO : Test_Login_Params : test_login_params_003: test_login_params_003 is Completed
+2023-06-23 18:41:43,276 :  INFO : Test_Login_Params : test_login_params_003: Opening Browser
+2023-06-23 18:41:48,323 :  INFO : Test_Login_DDT : test_login_ddt_004: test_login_ddt_004 is Passed
+2023-06-23 18:41:48,325 :  INFO : Test_Login_DDT : test_login_ddt_004: test_login_ddt_004 is Passed
+2023-06-23 18:41:48,380 :  INFO : Test_Login_DDT : test_login_ddt_004: test_login_ddt_004 is Completed
+2023-06-23 18:41:48,392 :  INFO : Test_Login_DDT : test_login_ddt_004: test_login_ddt_004 is Completed
+2023-06-23 18:41:49,913 :  INFO : Test_Login_Params : test_login_params_003: Going to URL
+2023-06-23 18:41:50,831 :  INFO : Test_Login_DDT : test_login_ddt_004: Opening Browser
+2023-06-23 18:41:50,940 :  INFO : Test_Login_DDT : test_login_ddt_004: Opening Browser
+2023-06-23 18:41:51,254 :  INFO : Test_Login_Params : test_login_params_003: Enter UserName--->Admin1
+2023-06-23 18:41:51,409 :  INFO : Test_Login_Params : test_login_params_003: Enter Password--->admin1231
+2023-06-23 18:41:51,500 :  INFO : Test_Login_Params : test_login_params_003: Click on login button
+2023-06-23 18:41:57,291 :  INFO : Test_Login_DDT : test_login_ddt_004: Going to URL
+2023-06-23 18:41:57,530 :  INFO : Test_Login_Params : test_login_params_003: test_login_params_003 is Passed
+2023-06-23 18:41:57,565 :  INFO : Test_Login_Params : test_login_params_003: test_login_params_003 is Completed
+2023-06-23 18:41:57,633 :  INFO : Test_Login_DDT : test_login_ddt_004: Going to URL
+2023-06-23 18:41:58,476 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter UserName--->Admin
+2023-06-23 18:41:58,487 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter UserName--->Admin
+2023-06-23 18:41:58,653 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter Password--->admin123
+2023-06-23 18:41:58,670 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter Password--->admin123
+2023-06-23 18:41:58,754 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on login button
+2023-06-23 18:41:58,782 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on login button
+2023-06-23 18:42:01,097 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on Menu button
+2023-06-23 18:42:01,111 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on Menu button
+2023-06-23 18:42:03,055 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on Logout button
+2023-06-23 18:42:03,864 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter UserName--->Admin1
+2023-06-23 18:42:04,025 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter Password--->admin123
+2023-06-23 18:42:04,113 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on login button
+2023-06-23 18:42:05,012 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on Logout button
+2023-06-23 18:42:05,663 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter UserName--->Admin1
+2023-06-23 18:42:05,778 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter Password--->admin123
+2023-06-23 18:42:05,861 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on login button
+2023-06-23 18:42:14,766 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter UserName--->Admin
+2023-06-23 18:42:14,887 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter Password--->admin1231
+2023-06-23 18:42:14,972 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on login button
+2023-06-23 18:42:16,425 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter UserName--->Admin
+2023-06-23 18:42:16,546 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter Password--->admin1231
+2023-06-23 18:42:17,858 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on login button
+2023-06-23 18:42:22,758 :  INFO : Test_Login_Params : test_login_params_003: test_login_params_003 is Passed
+2023-06-23 18:42:22,894 :  INFO : Test_Login_Params : test_login_params_003: test_login_params_003 is Completed
+2023-06-23 18:42:25,443 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter UserName--->Admin1
+2023-06-23 18:42:25,565 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter Password--->admin1231
+2023-06-23 18:42:25,640 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on login button
+2023-06-23 18:42:28,591 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter UserName--->Admin1
+2023-06-23 18:42:28,703 :  INFO : Test_Login_DDT : test_login_ddt_004: Enter Password--->admin1231
+2023-06-23 18:42:28,774 :  INFO : Test_Login_DDT : test_login_ddt_004: Click on login button
+2023-06-23 18:42:35,978 :  INFO : Test_Login_DDT : test_login_ddt_004: test_login_ddt_004 is Passed
+2023-06-23 18:42:36,014 :  INFO : Test_Login_DDT : test_login_ddt_004: test_login_ddt_004 is Completed
+2023-06-23 18:42:39,269 :  INFO : Test_Login_DDT : test_login_ddt_004: test_login_ddt_004 is Passed
+2023-06-23 18:42:39,314 :  INFO : Test_Login_DDT : test_login_ddt_004: test_login_ddt_004 is Completed
